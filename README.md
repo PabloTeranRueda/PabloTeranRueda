@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a student of DAM at UNIR. Nice to meet you! :)
 
 <!--
 **PabloTeranRueda/PabloTeranRueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
